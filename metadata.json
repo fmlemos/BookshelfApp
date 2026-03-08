@@ -1,0 +1,5 @@
+{
+  "name": "Bookshelf App",
+  "description": "A simple bookshelf website showing a list of books and their details.",
+  "requestFramePermissions": []
+}
